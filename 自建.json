@@ -1,8 +1,4 @@
-{
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;88395AF3CD17756128B3133AA8FC009F",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-
-  "sites": [
+{"sites": [
       {
       "key": "csp_77",
       "name": "柒壹影院┃App",
